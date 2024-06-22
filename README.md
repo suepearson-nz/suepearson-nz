@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-**suepearson-nz/suepearson-nz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some areas important to me:
 
 - 🌱 I’m currently learning API design & development, Data Visualisation using PowerBI
